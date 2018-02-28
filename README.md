@@ -7,9 +7,9 @@ Restaurants Database is an application created to help with organizing data abou
 
 Technologies used:
 
-node.js
-MYSQL
-javascript
+node.js, 
+MYSQL, 
+javascript, 
 inquirer
 
 TO USE:
